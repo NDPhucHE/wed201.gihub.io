@@ -1,8 +1,12 @@
-Các cách nhúng css vào file html
+/* Các cách nhúng css vào file html
 3 cách nhúng:
 Cách 1: Nhúng trực tiếp trong thẻ
 Cách 2 : Nhúng trong file HTML
+Cách 3: Nhứng URL vào HTML
 
 
 Định danh:
-Có 2 dạng: ID và class
+Có 2 dạng: ID và class */
+.title{
+    color: yellow;
+}
